@@ -167,11 +167,11 @@ def makemove(move, player):
 
 os.system('cls')
 print("=======================")
-print("Welcome to tick-tac-toe")
+print("Welcome to tik-tac-toe")
 print("=======================")
 print("=======================")
 print("===== Player = X =====")
-print("==== Computer = Y ====")
+print("==== Computer = O ====")
 print("=======================")
 input("Press Enter to Continue")
 
